@@ -5,5 +5,5 @@ module neuron (
 
 begin
     wire [7:0] synapse;
-    reg [1:0] memory;
+    reg [1:0] memory; // cool!
 endmodule // neuron
