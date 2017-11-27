@@ -3,9 +3,6 @@ module neuron (
   output [7:0] Q;
 );
 
-   begin
-      // empty module
+begin
+    wire [7:0] synapse;
 endmodule // neuron
-
-
-   
